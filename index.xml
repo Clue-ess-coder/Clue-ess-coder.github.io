@@ -10,19 +10,11 @@
     <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://Clue-ess-coder.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to the negative space</title>
-      <link>https://Clue-ess-coder.github.io/posts/2023/11/welcome-to-the-negative-space/</link>
-      <pubDate>Wed, 29 Nov 2023 18:18:12 +0100</pubDate>
-      <guid>https://Clue-ess-coder.github.io/posts/2023/11/welcome-to-the-negative-space/</guid>
-      <description>This is an heading and this is some content under that heading</description>
-    </item>
-    <item>
       <title>About</title>
       <link>https://Clue-ess-coder.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Clue-ess-coder.github.io/about/</guid>
-      <description>Welcome to Uncluttered
-Does it mean it adds to the previous one automatically?</description>
+      <description>Hello and Welcome to Coders Nest. My name&amp;rsquo;s Abdul-Hameed and I am not what you think I am.</description>
     </item>
   </channel>
 </rss>
