@@ -10,6 +10,14 @@
     <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://Clue-ess-coder.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Building Websites With Hugo</title>
+      <link>https://Clue-ess-coder.github.io/posts/2023/12/building-websites-with-hugo/</link>
+      <pubDate>Sat, 02 Dec 2023 01:07:17 +0100</pubDate>
+      <guid>https://Clue-ess-coder.github.io/posts/2023/12/building-websites-with-hugo/</guid>
+      <description>So one thing led to the other (From looking up how to install Zsh terminal on Termux) and here I am surfing the internet on how to build a website with Hugo and I must say it has been a nerve-racking 3 days.😂
+The process is quite simple and I am absolutely not going to bore you on what Hugo is, the innernet has enough articles to do that. What I&amp;rsquo;m interested in is getting you to build a website from start to finish in this post.</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://Clue-ess-coder.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
